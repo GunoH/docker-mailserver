@@ -64,6 +64,7 @@ RUN \
   libsasl2-modules \
   lrzip \
   lzop \
+  mailutils \
   netcat-openbsd \
   nomarch \
   opendkim \
