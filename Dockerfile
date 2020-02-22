@@ -63,6 +63,7 @@ RUN echo "deb http://http.debian.net/debian stretch-backports main" | tee -a /et
     libsasl2-modules \
     lrzip \
     lzop \
+    mailutils \
     netcat-openbsd \
     nomarch \
     opendkim \
